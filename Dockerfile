@@ -1,4 +1,4 @@
-FROM azul/zulu-openjdk-alpine:17-latest
+FROM azul/zulu-openjdk-alpine:23-latest
 
 COPY src /opt/functional-tests/src
 COPY build.gradle.kts /opt/functional-tests/build.gradle.kts
