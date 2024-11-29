@@ -98,7 +98,7 @@ dependencies {
     implementation("org.apache.httpcomponents:httpclient:4.5.9")
     implementation("org.assertj:assertj-core:3.13.2")
     implementation("com.nimbusds:nimbus-jose-jwt:9.0.1")
-    implementation("commons-io:commons-io:2.6")
+    implementation("commons-io:commons-io:2.18.0")
 
     implementation("org.junit.jupiter:junit-jupiter-api:5.7.0")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.10.1")
