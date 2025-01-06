@@ -97,7 +97,7 @@ dependencies {
     implementation("io.r2:simple-pem-keystore:0.3")
     implementation("org.apache.httpcomponents:httpclient:4.5.9")
     implementation("org.assertj:assertj-core:3.13.2")
-    implementation("com.nimbusds:nimbus-jose-jwt:9.0.1")
+    implementation("com.nimbusds:nimbus-jose-jwt:10.0.1")
     implementation("commons-io:commons-io:2.6")
 
     implementation("org.junit.jupiter:junit-jupiter-api:5.7.0")
