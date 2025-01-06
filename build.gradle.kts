@@ -96,7 +96,7 @@ dependencies {
     implementation("io.jsonwebtoken:jjwt-jackson:0.10.7")
     implementation("io.r2:simple-pem-keystore:0.3")
     implementation("org.apache.httpcomponents:httpclient:4.5.9")
-    implementation("org.assertj:assertj-core:3.13.2")
+    implementation("org.assertj:assertj-core:3.27.2")
     implementation("com.nimbusds:nimbus-jose-jwt:9.0.1")
     implementation("commons-io:commons-io:2.6")
 
